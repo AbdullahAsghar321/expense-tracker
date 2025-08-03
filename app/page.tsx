@@ -1,4 +1,6 @@
-export const HomePage = () => {
+import React from 'react'
+
+const page = () => {
   return (
     <div>
       
@@ -6,3 +8,4 @@ export const HomePage = () => {
   )
 }
 
+export default page
